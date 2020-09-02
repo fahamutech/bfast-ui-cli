@@ -1,0 +1,27 @@
+{
+    "name": "bfastui",
+    "version": "1.0.2",
+    "description": "bfast ui CLI generator",
+    "main": "index.js",
+    "bin": {
+        "bfastui": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "bfast",
+        "cli",
+        "UI"
+    ],
+    "author": "mecarito",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "clear": "^0.1.0",
+        "figlet": "^1.5.0",
+        "inquirer": "^7.3.3",
+        "node-emoji": "^1.10.0",
+        "touch": "^3.1.0"
+    }
+}
