@@ -37,6 +37,7 @@ const run = async() => {
         "services",
         "specs",
         "styles",
+        "states",
     ];
     const modulefile = ".module.ts";
     const newpath = "./src/app/modules/";
