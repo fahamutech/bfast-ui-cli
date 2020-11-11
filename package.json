@@ -4,7 +4,8 @@
     "description": "bfast ui CLI generator",
     "main": "index.js",
     "bin": {
-        "bfastui": "./index.js"
+        "bfastui-ng": "./lib/angular.js",
+        "bfastui-f": "./lib/flutter.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
